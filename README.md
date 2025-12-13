@@ -1,7 +1,7 @@
 # 👋 Welcome! 
 My name is Sean Fortosky. I am a teacher transitioning careers into software engineering. I am currently a student in the [Computer Systems Technology](https://saskpolytech.ca/programs-and-courses/programs/Computer-Systems-Technology.aspx) program at Saskatchewan Polytechnic in Saskatoon, Saskatchewan. After my graduation in June 2026, I am eager to take on my first position within the industry!
 
-## Skills & Experience
+## 📋 Skills & Experience
 #### 🌎 Full-Stack Web Development
 - Created multiple websites from scratch, building both front-end and back-end from the ground up
 - Knowledgeable in Node, Vite, React, and FastAPI frameworks
