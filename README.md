@@ -11,7 +11,6 @@ My name is Sean Fortosky. I am a teacher transitioning careers into software eng
   - Python
   - Java
   - C#
-  - C++
   - Javascript/JSX
   - HTML & CSS
 
