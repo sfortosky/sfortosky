@@ -1,43 +1,70 @@
-# 👋 Welcome! 
-My name is Sean Fortosky. I am a teacher transitioning careers into software engineering. I am currently a student in the [Computer Systems Technology](https://saskpolytech.ca/programs-and-courses/programs/Computer-Systems-Technology.aspx) program at Saskatchewan Polytechnic in Saskatoon, Saskatchewan. After my graduation in June 2026, I am eager to take on my first position within the industry!
+# 👋 Hi, I'm Sean Fortosky
+I am a teacher making a career pivot into development. I am currently studying [Computer Systems Technology](https://saskpolytech.ca/programs-and-courses/programs/Computer-Systems-Technology.aspx) at Saskatchewan Polytechnic in Saskatoon, Canada. I’m graduating in June 2026 and am excited to enter the industry! My background in teaching has helped me develop strong communication and problem-solving skills that translate directly into software development. 
 
 ## 📋 Skills & Experience
-#### 🌎 Full-Stack Web Development
-- Created multiple websites from scratch, building both front-end and back-end from the ground up
-- Knowledgeable in Node, Vite, React, and FastAPI frameworks
+#### 🌎 Full-Stack Development
+- Building responsive web applications
+- Frontend: HTML • CSS • Tailwind • JavaScript • React • Vite
+- Tooling: Vite • Node.js 
+- Backend: FastAPI
+- Designing and implementing RESTful APIs
+- Data validation using Pydantic
 
 #### 💻 Programming Languages
-- Experienced in programming using the following languages:
-  - Python
-  - Java
-  - C#
-  - Javascript/JSX
-  - HTML & CSS
+**Primary Languages**
+- Python
+- JavaScript
+- Java
+- C#
 
-- Strong understanding of cross-language programming concepts - always keen to pick up the syntax for new languages!
+**Also Experienced With**
+- C
+- Swift
+- .NET MAUI
+
+Strong understanding of core programming concepts and comfortable picking up new languages quickly.
+
+#### 🐧 Operating Systems
+- Linux administration
+- Command line workflows
+
+#### 🔄 Version Control
+- Git & GitHub
+- Branching workflows
+- Collaborative development
 
 #### 💾 Database Management
-- Skilled in SQL/SQLite database management
-- Experienced in designing efficient queries to streamline database access
+- SQLite
+- PostgreSQL
+- Query optimization
+- Relational data modeling
+- Managing migrations with Alembic
 
-#### 🔧 AI Tools
-- Experienced in designing pipelines for use with various Large Language Models
+#### 🤖 AI Development
+- Designing pipelines for Large Language Model workflows
+- Prompt design and integration with applications
 
-#### ✏️ UI & UX
-- Experienced in using Figma for creating UI and UX design mockups.
+#### 🎨 UI / UX
+- Figma for UI mockups and prototyping
+- User-focused interface design
 
 #### 🎓 Pedagogy
-- Bachelor's degree in Education from the University of Saskatchewan. Worked as a teacher for a total of 6 years, accumulating expertise in teaching diverse learners, preparing engaging learning experiences, and reducing complex topics into appropriately-sized chunks.
+I hold a Bachelor of Education from the University of Saskatchewan and spent 6 years as a teacher. This experience helped me develop skills that transfer directly into software development:
+- Explaining complex ideas clearly
+- Designing structured systems
+- Problem solving
+- Working with diverse teams
+- Building engaging user experiences
 
 ## 🔭 Projects On The Horizon
-- An app to translate musical notation to MIDI input
-- Player statistics app for local sports league (Saskatoon Ultimate Disc Society)
+- YOLO card recognition
+- Web app for tracking player statistics for the Saskatoon Ultimate Disc Society.
+- More coming soon!
 
 ## 👤 About Me
 - Team Canada Ultimate Frisbee Athlete
 - Outdoor Enthusiast
 - Musician (Piano & Guitar)
 
-## 📱 How To Reach Me
-- Email: fortoskysean@gmail.com
-- Phone: 306-XXX-XXXX
+## 📫 Contact
+- Email: sfortosky@pm.me
