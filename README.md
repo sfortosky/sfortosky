@@ -4,11 +4,10 @@ I am a teacher making a career pivot into development. I am currently studying [
 ## 📋 Skills & Experience
 #### 🌎 Full-Stack Development
 - Building responsive web applications
-- Frontend: HTML • CSS • Tailwind • JavaScript • React • Vite
+- Frontend: HTML • CSS • Tailwind • JavaScript • React
 - Tooling: Vite • Node.js 
 - Backend: FastAPI
 - Designing and implementing RESTful APIs
-- Data validation using Pydantic
 
 #### 💻 Programming Languages
 **Primary Languages**
@@ -20,7 +19,6 @@ I am a teacher making a career pivot into development. I am currently studying [
 **Also Experienced With**
 - C
 - Swift
-- .NET MAUI
 
 Strong understanding of core programming concepts and comfortable picking up new languages quickly.
 
@@ -59,7 +57,6 @@ I hold a Bachelor of Education from the University of Saskatchewan and spent 6 y
 ## 🔭 Projects On The Horizon
 - YOLO card recognition
 - Web app for tracking player statistics for the Saskatoon Ultimate Disc Society.
-- More coming soon!
 
 ## 👤 About Me
 - Team Canada Ultimate Frisbee Athlete
