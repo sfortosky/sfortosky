@@ -5,9 +5,9 @@ I am an educator making a career pivot into software/web development. I am curre
 
 #### 🤖 AI-Powered Tutoring Application (Capstone Project)
 An AI-powered tutoring application that generates study tools from educational content
-- **AI:** Ollama Gemma3n  •  Haystack pipelines
-- **Backend:** FastAPI
 - **Frontend:** React
+- **Backend:** FastAPI
+- **AI:** Ollama Gemma3n  •  Haystack pipelines
 - **Database:** SQLite •  ChromaDB
 
 
