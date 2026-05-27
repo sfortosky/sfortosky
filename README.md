@@ -39,7 +39,6 @@ An intelligent educational platform that dynamically generates study tools direc
 #### 🎨 UI / UX
 - Figma  •  Adobe Creative Suite
 - User-focused interface design
----
 
 ## Contact
 - Email: sfortosky@pm.me
