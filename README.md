@@ -11,7 +11,7 @@ An AI-powered tutoring application that generates study tools from educational c
 - **Database:** SQLite •  ChromaDB
 
 
-## Skills
+## Technical Skills
 
 #### 💻 Programming Languages
 **Primary:** Python  •  JavaScript  •  C#  •  HTML  •  CSS  
@@ -22,26 +22,29 @@ An AI-powered tutoring application that generates study tools from educational c
 #### 🌎 Full-Stack Development
 - Frontend: React  •  HTML  •  CSS  •  Tailwind
 - Backend: FastAPI  •  Node.js
-- Testing: Cypress (Component, E2E)
+- Testing: Cypress (E2E)
+> Builds responsive UIs, writes clean RESTful APIs, and implements thorough test coverage
 ---
 
 #### 🤖 AI Development
 - Designing pipelines for Large Language Model workflows
 - Prompt design and integration with applications
+> Actively exploring RAG architectures, prompt engineering, and AI integrations
 ---
 
 #### 💾 Database Management
-- PostgreSQL  •  SQLite
-- Relational data modeling & query optimization
+- PostgreSQL  •  SQLite  •  ChromaDB
+> Experienced in relational database design, query optimization, and managing data integrity
 ---
 
 #### 🔄 Version Control
 - Git  •  GitHub
+> Proficient with branching workflows and collaborative coding
 ---
 
 #### 🎨 UI / UX
 - Figma  •  Adobe Creative Suite
-- User-focused interface design
+> Combines aesthetics and functionality in user-centered design
 
 ## Contact
 - Email: sfortosky@pm.me
