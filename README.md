@@ -20,7 +20,7 @@ An AI-powered tutoring application that generates study tools from uploaded educ
 ---
 
 #### 🌎 Full-Stack Development
-- Frontend: React  •  HTML  •  CSS  •  Tailwind
+- Frontend: React  •  Tailwind
 - Backend: FastAPI  •  Node.js
 - Testing: Cypress (E2E)
 > Builds responsive UIs, writes clean RESTful APIs, and implements thorough test coverage
