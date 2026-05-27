@@ -4,9 +4,12 @@ I am an educator making a career pivot into software/web development. I am curre
 ## Featured Projects
 
 #### 🤖 AI-Powered Tutoring Application (Capstone Project)
-An intelligent educational platform that dynamically generates study tools directly from user-uploaded content.
-- **Backend & AI:** Designed robust RAG pipelines using **FastAPI** to generate quizzes, summaries, flashcards, and study guides, implementing file caching to optimize response times.
-- **Frontend & Auth:** Deployed a responsive **React** frontend and integrated **Microsoft OAuth** for secure user authentication.
+An AI-powered tutoring application that generates study tools from educational content
+- **AI:** Ollama Gemma3n  •  Haystack pipelines
+- **Backend:** FastAPI
+- **Frontend:** React
+- **Database:** SQLite •  ChromaDB
+
 
 ## Skills
 
