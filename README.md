@@ -37,6 +37,10 @@ An AI-powered tutoring application that generates study tools from uploaded educ
 > Experienced in relational database design, query optimization, and managing data integrity
 ---
 
+#### 🔬 Data Analysis 
+- NumPy  •  Matplotlib
+> Experienced in analyzing, cleaning, and visualizing datasets using NumPy and Matplotlib
+
 #### 🔄 Version Control
 - Git  •  GitHub
 > Proficient with branching workflows and collaborative coding
