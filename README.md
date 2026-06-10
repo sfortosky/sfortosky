@@ -15,7 +15,7 @@ An AI-powered tutoring application that generates study tools from uploaded educ
 
 #### 💻 Programming Languages
 **Primary:** Python  •  JavaScript  •  C#  •  HTML  •  CSS  
-**Additional Experience:** C  •  Swift  •  Java  •  SQL
+**Additional Experience:** Typescript •  C  •  Swift  •  Java  •  SQL
 > Strong understanding of core programming concepts and comfortable picking up new languages quickly.
 ---
 
@@ -52,4 +52,4 @@ An AI-powered tutoring application that generates study tools from uploaded educ
 > Combines aesthetics and functionality in user-centered design
 
 ## Contact
-- Email: sfortosky@pm.me
+- Email: fortoskysean@gmail.com
